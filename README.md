@@ -9,7 +9,7 @@ To understand how the popularity of Narendra Modi on twitter varies by geography
 
 ## Code Description:
 ---
-- **data_extraction.py:** This python script accesses twitter api and extract twitter of information of the followeres of a twitter account entered by the user. For this project, we will extract twitter information of Narendra Modi's followers. The extracted information is stored in a sqlite database.
+- **data_extraction.py:** This python script accesses twitter api and extracts twitter information of the followeres of a twitter account entered by the user. For this project, we will extract twitter information of Narendra Modi's followers. The extracted information is stored in a sqlite database.
 
 - **translate.py:** This python script accesses microsofttranslator api and transaltes the location string in the sqlite database created by data_extraction.py script
 
