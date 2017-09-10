@@ -9,7 +9,7 @@ conn = sqlite3.connect('../database/twitter.sqlite')
 cur = conn.cursor()
 
 from mstranslator import Translator
-translator = Translator('468698caeb124e92990fe61e58ed3de5')
+translator = Translator('XXXXXXXXXXXX')
 
 #cur.executescript('ALTER TABLE followers ADD loc_ind INTEGER;')
 #cur.execute('UPDATE followers SET loc_ind = 0')
