@@ -1,1 +1,2 @@
-# Analyzing_Modi-s_twitter_followers
+# Analyzing a sample of Narendra Modi's Twitter Followers
+
